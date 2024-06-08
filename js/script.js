@@ -9,7 +9,7 @@ document.getElementById('carouselwithbuttons').innerHTML = `
     </div>
 
     <div id='iten_1'>
-      <a href="/copiatore.html"></a>
+      <a href="/test-carosello/copiatore.html"></a>
       <img src="https://picsum.photos/300/200?random=15">
     </div>
 
