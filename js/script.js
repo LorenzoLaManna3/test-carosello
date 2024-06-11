@@ -9,7 +9,7 @@ document.getElementById('carouselwithbuttons').innerHTML = `
     </div>
 
     <div id='iten_1'>
-      <a href="/test-carosello/copiatore.html"></a>
+      <a href="/test-carosello/copiatori/copiatore.html"></a>
       <img src="https://picsum.photos/300/200?random=15">
     </div>
 
@@ -469,4 +469,4 @@ function backgroundMove() { //questa funzione serve per far apparire lo sofnod c
 // dubbio: siccome le pagine dei giochi forse saranno dentro una cartello, abbiamo 2 situazioni:
 // 1.:  Non farlo, e lasciarli nella cartella repository
 // 2.: avere due html dello stesso carosello, uno per l'index, l'altro 
-// 3.: provare questo metodo per andare alla radice (root): href:"/page.html" o href: "/cartella/page.html, aggiungendo "/" prima del file o cartella
+// 3.: provare questo metodo per andare alla radice (root): href:"/page.html" o href: "/repository/cartella/page.html, aggiungendo "/" prima del file o cartella
